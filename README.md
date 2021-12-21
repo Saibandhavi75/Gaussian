@@ -15,12 +15,15 @@ To write a program to find the Gaussian Elimination with partial pivoting of a m
 
 ## Program:
 */
-'''
+
 Program to solve a matrix using Gaussianelimination with partial pivoting.
+
 Developed by: A.Sai bandhavi
+
 RegisterNumber: 21005573
-'''
+
 /*
+
 import numpy as np
 
 import sys
@@ -68,7 +71,7 @@ for i in range(n):
     print('X%d = %0.2f' %(i,X[i]), end = ' ')
 
 ## Output:
-![gaussian elimination]()
+![gaussian elimination](https://github.com/Saibandhavi75/Gaussian/blob/main/Screenshot%20(3).png?raw=true)
 
 
 ## Result:
