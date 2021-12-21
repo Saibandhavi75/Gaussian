@@ -14,9 +14,9 @@ To write a program to find the Gaussian Elimination with partial pivoting of a m
 4.End the program. 
 
 ## Program:
-
 */
-'''Program to solve a matrix using Gaussianelimination with partial pivoting.
+'''
+Program to solve a matrix using Gaussianelimination with partial pivoting.
 Developed by: A.Sai bandhavi
 RegisterNumber: 21005573
 '''
